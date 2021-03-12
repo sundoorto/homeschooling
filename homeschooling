@@ -31,6 +31,8 @@
 0.0.0.0 www.cdn1.unrealengine.com
 0.0.0.0 www.cdn2.unrealengine.com
 0.0.0.0 static-assets-prod.epicgames.com
+0.0.0.0	eulatracking-public-service-prod.ak.epicgames.com
+0.0.0.0	qos2.ol.epicgames.com
 #STEAM
 0.0.0.0 steampowered.com
 0.0.0.0 steamcommunity.com
@@ -47,6 +49,11 @@
 0.0.0.0 presence.roblox.com
 0.0.0.0 games.roblox.com
 0.0.0.0 rbxcdn.com
+#XBOX
+0.0.0.0 user.auth.xboxlive.com
+0.0.0.0 title.auth.xboxlive.com
+0.0.0.0 aad.cs.dds.microsoft.com
+0.0.0.0 device.auth.xboxlive.com
 #VIDEOSTREAMING
 0.0.0.0 youtube.com
 0.0.0.0 primevideo.com
