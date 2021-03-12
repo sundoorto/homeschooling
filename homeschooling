@@ -1,3 +1,62 @@
+#GAMING SUNDOORTO
+#EPICGAMES
+0.0.0.0 www.epicgames.com
+0.0.0.0 epicgames.helpshift.com
+0.0.0.0 account-public-service-prod.ak.epicgames.com
+0.0.0.0 account-public-service-prod.ol.epicgames.com
+0.0.0.0 api.epicgames.dev
+0.0.0.0 catalog-public-service-prod.ak.epicgames.com
+0.0.0.0 content-controls-prod.ol.epicgames.net
+0.0.0.0 entitlement-public-service-prod.ak.epicgames.com
+0.0.0.0 eulatracking-public-service-prod06.ol.epicgames.com
+0.0.0.0 events-public-service-live.ol.epicgames.com
+0.0.0.0 fortnitecontent-website-prod07.ol.epicgames.com
+0.0.0.0 fortnite-public-service-prod11.ol.epicgames.com
+0.0.0.0 fortnitewaitingroom-public-service-prod.ol.epicgames.com
+0.0.0.0 friends-public-service-prod.ak.epicgames.com
+0.0.0.0 friends-public-service-prod.ol.epicgames.com
+0.0.0.0 ibrary-service.live.use1a.on.epicgames.com
+0.0.0.0 interactions-service-prod.ol.epicgames.com
+0.0.0.0 launcher-public-service-prod.ak.epicgames.com
+0.0.0.0 library-service.live.use1a.on.epicgames.com
+0.0.0.0 lightswitch-public-service-prod.ol.epicgames.com
+0.0.0.0 party-service-prod.ol.epicgames.com
+0.0.0.0 party-service-prod.ol.epicgames.com
+0.0.0.0 presence-public-service-prod.ol.epicgames.com
+0.0.0.0 priceengine-public-service-ecomprod01.ol.epicgames.com
+0.0.0.0 qos1.ol.epicgames.com
+0.0.0.0 social-ban-public-service-prod.ol.epicgames.com
+0.0.0.0 statsproxy-public-service-live.ol.epicgames.com
+0.0.0.0 xmpp-service-prod.ol.epicgames.com
+0.0.0.0 www.cdn1.unrealengine.com
+0.0.0.0 www.cdn2.unrealengine.com
+0.0.0.0 static-assets-prod.epicgames.com
+#STEAM
+0.0.0.0 steampowered.com
+0.0.0.0 steamcommunity.com
+0.0.0.0 steamgames.com
+0.0.0.0 steamusercontent.com
+0.0.0.0 steamcontent.com
+0.0.0.0 steamstatic.com
+0.0.0.0 akamaihd.net
+#ROBLOX
+0.0.0.0 roblox.com
+0.0.0.0 assetdelivery.roblox.com
+0.0.0.0 ephemeralcounters.api.roblox.com
+0.0.0.0 assetgame.roblox.com
+0.0.0.0 presence.roblox.com
+0.0.0.0 games.roblox.com
+0.0.0.0 rbxcdn.com
+#VIDEOSTREAMING
+0.0.0.0 youtube.com
+0.0.0.0 primevideo.com
+0.0.0.0 www.primevideo.com
+0.0.0.0 www.youtube.com
+0.0.0.0 www.amazon.de
+0.0.0.0 www.amazon.it
+0.0.0.0 www.youtube.de
+0.0.0.0 www.youtube.it
+
 #GAMING
 0.0.0.0	0.0.0.0
 0.0.0.0	2game.com
@@ -1091,35 +1150,6 @@
 0.0.0.0	xsts.auth.xboxlive.com
 0.0.0.0	zh-cn.socialclub.rockstargames.com
 0.0.0.0	zh.socialclub.rockstargames.com
-
-#PERSONAL
-0.0.0.0 youtube.com
-0.0.0.0 primevideo.com
-0.0.0.0 www.primevideo.com
-0.0.0.0 www.youtube.com
-0.0.0.0 www.amazon.de
-0.0.0.0 www.amazon.it
-0.0.0.0 www.youtube.de
-0.0.0.0 www.youtube.it
-0.0.0.0 rbxcdn.com
-0.0.0.0 roblox.com
-0.0.0.0 assetdelivery.roblox.com
-0.0.0.0 ephemeralcounters.api.roblox.com
-0.0.0.0 assetgame.roblox.com
-0.0.0.0 presence.roblox.com
-0.0.0.0 games.roblox.com
-0.0.0.0 www.epicgames.com
-0.0.0.0 steampowered.com
-0.0.0.0 steamcommunity.com
-0.0.0.0 steamgames.com
-0.0.0.0 steamusercontent.com
-0.0.0.0 steamcontent.com
-0.0.0.0 steamstatic.com
-0.0.0.0 akamaihd.net
-0.0.0.0 www.cdn1.unrealengine.com
-0.0.0.0 www.cdn2.unrealengine.com
-0.0.0.0 static-assets-prod.epicgames.com
-0.0.0.0 epicgames.helpshift.com
 
 #STREAMING 
 007-os-diamantes-sao-eternos.olink.tv
