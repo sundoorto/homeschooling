@@ -31,8 +31,8 @@ xmpp-service-prod.ol.epicgames.com
 www.cdn1.unrealengine.com
 www.cdn2.unrealengine.com
 static-assets-prod.epicgames.com
-	eulatracking-public-service-prod.ak.epicgames.com
-	qos2.ol.epicgames.com
+eulatracking-public-service-prod.ak.epicgames.com
+qos2.ol.epicgames.com
 #STEAM
 steampowered.com
 steamcommunity.com
@@ -64,9 +64,13 @@ www.amazon.de
 www.amazon.it
 www.youtube.de
 www.youtube.it
+node.anime-tube.tv
+animetube.disqus.com
+www.ami-stream.com
+anime-tube.tv
+green.ani-stream.com
 
 #GAMING
-	
 2game.com
 3games1box.com
 5games1box.com
